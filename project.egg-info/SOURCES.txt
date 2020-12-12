@@ -1,0 +1,13 @@
+setup.py
+ouedkniss_crawler/__init__.py
+ouedkniss_crawler/items.py
+ouedkniss_crawler/middlewares.py
+ouedkniss_crawler/pipelines.py
+ouedkniss_crawler/settings.py
+ouedkniss_crawler/spiders/__init__.py
+ouedkniss_crawler/spiders/vehicules.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
